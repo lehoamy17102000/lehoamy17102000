@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* 👀 I’m interested in Javascript
+* 🌱 I’m currently learning Javascipt
+
